@@ -1,0 +1,77 @@
+h2 { 
+  color: red;
+}
+
+.topo {
+   width: 1000px;
+   background: rgb(255, 0, 0);
+   height: 100px;
+   margin: 0 auto;
+   border-radius: 50px;
+}
+
+
+#conteudo {
+
+ width: 99%;
+ background: gray;
+ height: auto;
+ margin: 10px auto;
+}
+
+
+.rodape {
+  width: 1000px;
+  background: purple;
+  height: auto;
+  margin: 10px auto;
+}
+
+
+.menu {
+   width: 1000px;
+   margin: 10px;
+   height: 40px;
+}
+
+
+.menu ul li {
+   float: left;
+   list-style: none;
+}
+
+
+.menu ul li a{
+   padding: 10px;
+   background: mediumturquoise;
+   text-decoration: none;
+   color: rgb(10, 10, 10);
+}
+
+.menu ul li a:hover{
+ color: red;
+}
+
+.menu ul li a{
+   font-size: 12px;
+   background-color: #35a9f6;
+   border-radius: 60px;
+   min-width: 127px;
+   padding: 12px 50px;
+   height: 50px;
+   line-height: px;
+   border: 0;
+   color: #fff;
+   font-weight: 500px;
+   margin: 30px;
+   transition: .25s ease-out, color .25s ease-out;
+   text-align: center;
+   cursor: pointer;
+  
+}
+
+img{
+   position: relative;
+   bottom: 320px;
+   left: 1100px;
+}
